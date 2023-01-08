@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Jasper Lee. A Taiwanese student majoring in information management.
-- 👀 I’m interested in learning new things.
+- 👀 I wanna know how to use Github...
 - 🌱 I’m currently learning Python in CS50.
 - 📫 Gmail(personal): jasperlee.twn@gmail.com
 - 📫 Gmail(school): 411035015@gms.ndhu.edu.tw
