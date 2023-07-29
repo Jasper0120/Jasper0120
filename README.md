@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Jasper Lee. A Taiwanese student majoring in information management.
-- 👀 I wanna know how to use Github...
-- 🌱 I’m currently learning Python in CS50.
+Hi, I’m Jasper Lee. A Taiwanese student majoring in department of Information Management.
+- 🌱 I’m currently studying CS50x.
+- 🎓 I have finished CS50p.
 - 📫 Gmail(personal): jasperlee.twn@gmail.com
 - 📫 Gmail(school): 411035015@gms.ndhu.edu.tw
 - IG: jasper_0120 
